@@ -94,7 +94,11 @@ https://127.0.0.1:8000/api/login
 #### Enter the following JSON data (Ensure that data fixtures are loaded first):
 
 ```Json
-https://127.0.0.1:8000/api/login
+{
+    "email": "testing@gmail.com",
+    "password": "testing"
+}
+
 ```
 
 
