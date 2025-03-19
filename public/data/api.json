@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "address": "177 Beverly Plaza",
+        "price": 371853,
+        "source": "Source1"
+    },
+    {
+        "id": 2,
+        "address": "889 Upton Canyon",
+        "price": 489492,
+        "source": "Source1"
+    },
+    {
+        "id": 3,
+        "address": "58927 Blake Cliffs Suite 727",
+        "price": 210810,
+        "source": "Source1"
+    },
+    {
+        "id": 4,
+        "address": "136 Buster Manor Suite 872",
+        "price": 477933,
+        "source": "Source1"
+    },
+    {
+        "id": 5,
+        "address": "3540 Williamson Motorway",
+        "price": 168457,
+        "source": "Source1"
+    },
+    {
+        "id": 6,
+        "address": "234 O'Kon Centers Apt. 484",
+        "price": 277781,
+        "source": "Source1"
+    },
+    {
+        "id": 7,
+        "address": "2587 Dicki Square",
+        "price": 203702,
+        "source": "Source1"
+    },
+    {
+        "id": 8,
+        "address": "37040 Toney Knoll",
+        "price": 221526,
+        "source": "Source1"
+    },
+    {
+        "id": 9,
+        "address": "5770 Bruen Crossroad Suite 414",
+        "price": 277276,
+        "source": "Source1"
+    },
+    {
+        "id": 10,
+        "address": "66803 Krajcik Prairie",
+        "price": 486647,
+        "source": "Source1"
+    },
+    {
+        "id": 11,
+        "address": "391 Melody Club Apt. 911",
+        "price": 465493,
+        "source": "Source1"
+    },
+    {
+        "id": 12,
+        "address": "39124 Stamm Prairie Suite 695",
+        "price": 283690,
+        "source": "Source1"
+    },
+    {
+        "id": 13,
+        "address": "4107 Lind Shoals",
+        "price": 416891,
+        "source": "Source1"
+    },
+    {
+        "id": 14,
+        "address": "7096 Reichert Trace",
+        "price": 210905,
+        "source": "Source1"
+    },
+    {
+        "id": 15,
+        "address": "7018 Mayer Forges",
+        "price": 162635,
+        "source": "Source1"
+    },
+    {
+        "id": 16,
+        "address": "79499 Willow Rest",
+        "price": 492968,
+        "source": "Source1"
+    },
+    {
+        "id": 17,
+        "address": "15516 Kuhn Forest",
+        "price": 160302,
+        "source": "Source1"
+    },
+    {
+        "id": 18,
+        "address": "89953 Sanford Highway Suite 493",
+        "price": 302808,
+        "source": "Source1"
+    },
+    {
+        "id": 19,
+        "address": "464 Rohan Land",
+        "price": 185872,
+        "source": "Source1"
+    },
+    {
+        "id": 20,
+        "address": "936 Lueilwitz Plaza Apt. 475",
+        "price": 215557,
+        "source": "Source1"
+    },
+    {
+        "id": 21,
+        "address": "50120 Lueilwitz Landing Apt. 739",
+        "price": 418382,
+        "source": "Source1"
+    },
+    {
+        "id": 22,
+        "address": "752 Conrad Ramp Apt. 994",
+        "price": 443416,
+        "source": "Source1"
+    },
+    {
+        "id": 23,
+        "address": "695 Harris Common Apt. 640",
+        "price": 119692,
+        "source": "Source1"
+    },
+    {
+        "id": 24,
+        "address": "1462 Tremblay Mountain Suite 955",
+        "price": 397971,
+        "source": "Source1"
+    },
+    {
+        "id": 25,
+        "address": "74278 Nicholas Haven Apt. 766",
+        "price": 105424,
+        "source": "Source1"
+    },
+    {
+        "id": 26,
+        "address": "25564 Lowe Lodge Suite 357",
+        "price": 163805,
+        "source": "Source1"
+    },
+    {
+        "id": 27,
+        "address": "3273 Luettgen Harbors Apt. 610",
+        "price": 121722,
+        "source": "Source1"
+    },
+    {
+        "id": 28,
+        "address": "75343 Joel Mews",
+        "price": 246497,
+        "source": "Source1"
+    },
+    {
+        "id": 29,
+        "address": "866 Bethany Fork Suite 205",
+        "price": 368923,
+        "source": "Source1"
+    },
+    {
+        "id": 30,
+        "address": "276 Green Landing",
+        "price": 100440,
+        "source": "Source1"
+    },
+    {
+        "id": 31,
+        "address": "334 Collier Mount Suite 734",
+        "price": 314085,
+        "source": "Source1"
+    },
+    {
+        "id": 32,
+        "address": "34395 Amely Village Apt. 806",
+        "price": 213225,
+        "source": "Source1"
+    },
+    {
+        "id": 33,
+        "address": "36234 Stroman Cliffs",
+        "price": 289395,
+        "source": "Source1"
+    },
+    {
+        "id": 34,
+        "address": "694 Carissa Via Apt. 590",
+        "price": 225699,
+        "source": "Source1"
+    },
+    {
+        "id": 35,
+        "address": "3711 Johnathon Plaza",
+        "price": 350046,
+        "source": "Source1"
+    },
+    {
+        "id": 36,
+        "address": "18891 Schamberger Prairie",
+        "price": 163569,
+        "source": "Source1"
+    },
+    {
+        "id": 37,
+        "address": "6020 Yasmine Club",
+        "price": 330749,
+        "source": "Source1"
+    },
+    {
+        "id": 38,
+        "address": "3395 Leannon Stream",
+        "price": 308680,
+        "source": "Source1"
+    },
+    {
+        "id": 39,
+        "address": "94554 Bridget Gardens Apt. 310",
+        "price": 439032,
+        "source": "Source1"
+    },
+    {
+        "id": 40,
+        "address": "8172 Tromp Mall",
+        "price": 454181,
+        "source": "Source1"
+    },
+    {
+        "id": 41,
+        "address": "418 Pfeffer Turnpike Suite 738",
+        "price": 136848,
+        "source": "Source1"
+    },
+    {
+        "id": 42,
+        "address": "9818 Gottlieb Street Apt. 818",
+        "price": 189648,
+        "source": "Source1"
+    },
+    {
+        "id": 43,
+        "address": "37351 Goyette Brooks",
+        "price": 225555,
+        "source": "Source1"
+    },
+    {
+        "id": 44,
+        "address": "2871 Wiza River",
+        "price": 431790,
+        "source": "Source1"
+    },
+    {
+        "id": 45,
+        "address": "13301 Westley Groves Suite 852",
+        "price": 465523,
+        "source": "Source1"
+    },
+    {
+        "id": 46,
+        "address": "44445 Padberg Plains",
+        "price": 467781,
+        "source": "Source1"
+    },
+    {
+        "id": 47,
+        "address": "88098 Rempel Bridge",
+        "price": 279083,
+        "source": "Source1"
+    },
+    {
+        "id": 48,
+        "address": "217 Mayer Vista",
+        "price": 319795,
+        "source": "Source1"
+    },
+    {
+        "id": 49,
+        "address": "169 Vernice Views Suite 171",
+        "price": 380468,
+        "source": "Source1"
+    },
+    {
+        "id": 50,
+        "address": "1939 Jacobson Shoals",
+        "price": 351583,
+        "source": "Source1"
+    },
+    {
+        "id": 51,
+        "address": "3958 Goyette Underpass",
+        "price": 151679,
+        "source": "Source1"
+    },
+    {
+        "id": 52,
+        "address": "300 Ritchie Alley",
+        "price": 322078,
+        "source": "Source1"
+    },
+    {
+        "id": 53,
+        "address": "339 Goodwin Hollow Suite 319",
+        "price": 470617,
+        "source": "Source1"
+    },
+    {
+        "id": 54,
+        "address": "80067 Ryleigh Shores",
+        "price": 424418,
+        "source": "Source1"
+    },
+    {
+        "id": 55,
+        "address": "78603 Forest Road",
+        "price": 152645,
+        "source": "Source1"
+    },
+    {
+        "id": 56,
+        "address": "484 Madalyn View",
+        "price": 330062,
+        "source": "Source1"
+    },
+    {
+        "id": 57,
+        "address": "44337 Coleman Ports",
+        "price": 350338,
+        "source": "Source1"
+    },
+    {
+        "id": 58,
+        "address": "57228 Auer Island",
+        "price": 340507,
+        "source": "Source1"
+    },
+    {
+        "id": 59,
+        "address": "37580 Hills Inlet Suite 987",
+        "price": 404838,
+        "source": "Source1"
+    },
+    {
+        "id": 60,
+        "address": "730 Guy Fords Apt. 944",
+        "price": 349077,
+        "source": "Source1"
+    },
+    {
+        "id": 61,
+        "address": "248 Smith Motorway",
+        "price": 136078,
+        "source": "Source1"
+    },
+    {
+        "id": 62,
+        "address": "42711 Osinski Hollow Apt. 447",
+        "price": 228316,
+        "source": "Source1"
+    },
+    {
+        "id": 63,
+        "address": "64057 Makenna Cliffs Apt. 770",
+        "price": 107457,
+        "source": "Source1"
+    },
+    {
+        "id": 64,
+        "address": "6497 Edgar Trail",
+        "price": 213805,
+        "source": "Source1"
+    },
+    {
+        "id": 65,
+        "address": "85307 Major Brook",
+        "price": 253940,
+        "source": "Source1"
+    },
+    {
+        "id": 66,
+        "address": "4538 Kameron Springs Apt. 721",
+        "price": 151831,
+        "source": "Source1"
+    },
+    {
+        "id": 67,
+        "address": "8986 Alfonso Rest",
+        "price": 313808,
+        "source": "Source1"
+    },
+    {
+        "id": 68,
+        "address": "87399 Langworth Bypass Apt. 259",
+        "price": 387121,
+        "source": "Source1"
+    },
+    {
+        "id": 69,
+        "address": "11725 Muller Court Apt. 986",
+        "price": 491740,
+        "source": "Source1"
+    },
+    {
+        "id": 70,
+        "address": "7183 Smith Oval",
+        "price": 499789,
+        "source": "Source1"
+    },
+    {
+        "id": 71,
+        "address": "81744 Flatley Ramp",
+        "price": 303484,
+        "source": "Source1"
+    },
+    {
+        "id": 72,
+        "address": "73731 Winfield Bridge Apt. 715",
+        "price": 385062,
+        "source": "Source1"
+    },
+    {
+        "id": 73,
+        "address": "109 Jacinto Inlet Suite 571",
+        "price": 148530,
+        "source": "Source1"
+    },
+    {
+        "id": 74,
+        "address": "616 Felton Tunnel Apt. 210",
+        "price": 199896,
+        "source": "Source1"
+    },
+    {
+        "id": 75,
+        "address": "5234 Veum Parks",
+        "price": 133674,
+        "source": "Source1"
+    },
+    {
+        "id": 76,
+        "address": "7716 McDermott Viaduct",
+        "price": 343475,
+        "source": "Source1"
+    },
+    {
+        "id": 77,
+        "address": "8867 Kling Throughway Suite 584",
+        "price": 412752,
+        "source": "Source1"
+    },
+    {
+        "id": 78,
+        "address": "1078 Tanya Trace Apt. 079",
+        "price": 188255,
+        "source": "Source1"
+    },
+    {
+        "id": 79,
+        "address": "98645 Domenick Route Apt. 616",
+        "price": 363194,
+        "source": "Source1"
+    },
+    {
+        "id": 80,
+        "address": "67974 Murphy Common Suite 625",
+        "price": 145933,
+        "source": "Source1"
+    },
+    {
+        "id": 81,
+        "address": "937 Grant Turnpike",
+        "price": 316945,
+        "source": "Source1"
+    },
+    {
+        "id": 82,
+        "address": "3431 Hipolito Prairie Suite 180",
+        "price": 221147,
+        "source": "Source1"
+    },
+    {
+        "id": 83,
+        "address": "972 Metz Fords Apt. 097",
+        "price": 266918,
+        "source": "Source1"
+    },
+    {
+        "id": 84,
+        "address": "59820 Hahn Forge",
+        "price": 328426,
+        "source": "Source1"
+    },
+    {
+        "id": 85,
+        "address": "31628 Ledner Harbors Suite 934",
+        "price": 310189,
+        "source": "Source1"
+    },
+    {
+        "id": 86,
+        "address": "239 Vernon Drives",
+        "price": 361651,
+        "source": "Source1"
+    },
+    {
+        "id": 87,
+        "address": "1850 Lenora Gateway Apt. 726",
+        "price": 143103,
+        "source": "Source1"
+    },
+    {
+        "id": 88,
+        "address": "645 Darrion Prairie",
+        "price": 201921,
+        "source": "Source1"
+    },
+    {
+        "id": 89,
+        "address": "29829 Crist Springs Apt. 602",
+        "price": 176838,
+        "source": "Source1"
+    },
+    {
+        "id": 90,
+        "address": "43231 Windler Island Suite 148",
+        "price": 365069,
+        "source": "Source1"
+    },
+    {
+        "id": 91,
+        "address": "621 Boehm Plaza",
+        "price": 123904,
+        "source": "Source1"
+    },
+    {
+        "id": 92,
+        "address": "846 Osbaldo Flat",
+        "price": 155989,
+        "source": "Source1"
+    },
+    {
+        "id": 93,
+        "address": "6169 Quinton Place",
+        "price": 221165,
+        "source": "Source1"
+    },
+    {
+        "id": 94,
+        "address": "2411 Grant Spur",
+        "price": 173173,
+        "source": "Source1"
+    },
+    {
+        "id": 95,
+        "address": "4037 Lebsack Tunnel",
+        "price": 454891,
+        "source": "Source1"
+    },
+    {
+        "id": 96,
+        "address": "2069 Schultz Extension Suite 385",
+        "price": 133883,
+        "source": "Source1"
+    },
+    {
+        "id": 97,
+        "address": "8253 Hortense Trail Apt. 889",
+        "price": 337911,
+        "source": "Source1"
+    },
+    {
+        "id": 98,
+        "address": "345 Maudie Path",
+        "price": 461294,
+        "source": "Source1"
+    },
+    {
+        "id": 99,
+        "address": "5642 Balistreri Inlet Suite 828",
+        "price": 498848,
+        "source": "Source1"
+    },
+    {
+        "id": 100,
+        "address": "92614 Kovacek Street",
+        "price": 485824,
+        "source": "Source1"
+    }
+]

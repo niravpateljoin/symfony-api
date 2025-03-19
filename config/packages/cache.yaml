@@ -1,0 +1,6 @@
+framework:
+    cache:
+        pools:
+            app.cache:
+                adapter: cache.adapter.redis
+                default_lifetime: 3600
